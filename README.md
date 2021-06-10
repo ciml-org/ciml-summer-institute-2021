@@ -50,7 +50,7 @@ All time are in PST.
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM	   | Machine Learning (ML) Overview | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
 | 8:30 AM – 9:15 AM  | 	R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 9:15 AM – 10:30 AM | 	Spark | [[Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 9:15 AM – 10:30 AM | 	Spark | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
 | 10:30 AM – 11:30 PM  |  Break/ Lunch |  |
 | 11:30 AM – 1:30 PM 	 | Deep Learning  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
 | 1:30 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
@@ -60,7 +60,12 @@ All time are in PST.
 ### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| start - end  | topic | [presenter](#tbd) |
+| 8:00 AM - 8:45 AM	Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
+| 8:45 AM – 10:15 AM  |  Spark Hands-on | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
+| 10:15 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
+| 11:00 AM – 12:00 PM - Break/Lunch
+| 12:00 PM – 1:30 PM  | Continue Deep Learning Hands-on  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 1:30 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
 
