@@ -43,7 +43,6 @@ description here
 [Back to Top](#top)
 
 ### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
-<a name="agenda-prep">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
