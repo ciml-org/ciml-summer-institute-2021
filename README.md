@@ -23,8 +23,14 @@ description here
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
 | 9:00 AM – 9:20 AM | Welcome & Introduction | [TBD](#tbd) |
-| 11:30 AM - 11:50 AM | Running Jobs on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
+| 11:30 AM - 11:50 AM | Running Jobs on Expanse [[download]](presentation.pdf) |  |
 | 11:50 AM - 12:00 PM | Interactive Computing/Jupyter Notebooks on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
+
+| 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
+| 9:10 AM – 9:40 AM	 | Expanse 101: Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
+| 9:40 AM – 10:10 AM | 	Notebooks 101: Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
+| 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
+| 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
 
 [Back to Top](#top)
 
@@ -32,6 +38,10 @@ description here
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
+| 8:00 AM - 9:00 AM | 	Welcome, Orientation, & Introductions |  Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute  |
+| 9:00 AM – 9:40 AM	 | Introduction HPC/Cyberinfrastructure   | Robert Sinkovits, Director for Scientific Computing Applications  |
+| 9:40 AM – 10:20 AM | 	CPU Computing - Hardware, architecture, and software infrastructure  | Mary Thomas, Computational Data Scientist & Director of the CIML Summer Institute | 
+| 10:20 AM – 11:00 AM	| GPU Computing - Hardware architecture and software infrastructure | Andreas Goetz, Research Scientist & Principal Investigator |
 
 [Back to Top](#top)
 
