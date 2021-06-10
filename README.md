@@ -16,9 +16,9 @@
 ## Description:<a name="description"></a>
 description here
 
-## Agenda:<a name="agenda">
+## Agenda:<a name="agenda"></a>
 
-### Preparation Day (Fri, 06/18/21) <a name="agenda-prep">
+### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
@@ -35,14 +35,14 @@ description here
 
 [Back to Top](#top)
 
-### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml">
+### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
 
 [Back to Top](#top)
 
-### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on">
+### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
 <a name="agenda-prep">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
@@ -51,7 +51,7 @@ description here
 [Back to Top](#top)
 
 <hr>
-  ## Instructors<a name="instructors"></a>
+## Instructors<a name="instructors"></a>
 | **NAME** | **TITLE** | **ORG** |
 | ---------- | ----------- | ----------- |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
