@@ -54,7 +54,7 @@ description here
 ## Instructors<a name="instructors"></a>
 
 | **NAME** | **TITLE** | **ORG** |
-| ---------- | ----------- | ----------- |
+| ----------------------- | ----------- | ----------- |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
 | Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Analytics [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Paul Rodriquez<a name="prose"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
