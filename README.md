@@ -35,7 +35,7 @@ All time are in PST.
 | -------------------- | ----------- | ----------- |
 | 8:00 AM - 9:00 AM | 	Welcome, Orientation, & Introductions |  [Mary Thomas](#thomas)  |
 | 9:00 AM – 9:40 AM	 | Introduction HPC/Cyberinfrastructure   | [Robert Sinkovits](#sinkovit) |
-| 9:40 AM – 10:20 AM | 	CPU Computing - Hardware, architecture, and software infrastructure  | [Mary Thomas](#thomas), [Martin Kandes[(#kandes)] |
+| 9:40 AM – 10:20 AM | 	CPU Computing - Hardware, architecture, and software infrastructure  | [Mary Thomas](#thomas) |
 | 10:20 AM – 11:00 AM	| GPU Computing - Hardware architecture and software infrastructure | [Andreas Goetz](#goetz) |
 | 11:00 AM – 11:45 AM | Break/Lunch |    |
 11:45 PM – 12:25 PM 	 | Data Management and File Systems  | [Manu Shantharam](#shantharam) |
@@ -71,7 +71,8 @@ All time are in PST.
 | Paul Rodriquez<a name="rodriquez"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
 | Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory, and Lead -  Bioinformatics and Biomedical Applications, Data Science Hub [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
-| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  |
+| Manu Shantharam <a name="shantharam"></a> | TITLE [(bio)](TBD) | SDSC |
+| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, HPC Training Lead [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
 
