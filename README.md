@@ -1,6 +1,6 @@
 # ciml-summer-institute-2021
 
-## WebSite:  https://hsistemhub.org/2021-summer-stemed-workshops/nsg-eeg/
+## WebSite:  https://na.eventscloud.com/website/22773
 
 ### <a name="top">**Contents:**
 * [Description](#description)
