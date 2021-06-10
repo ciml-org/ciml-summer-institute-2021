@@ -23,7 +23,7 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
 * Welcome (Susan)
 * Tech Checks:
   - Zoom. (Cindy)
-  - Gitter (Cindy)
+  - Slack (Cindy)
   - GitHub (Marty)
 * Accounts
   - User environment (Mahi, Marty, Nicole)
