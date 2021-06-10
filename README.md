@@ -20,7 +20,7 @@ description here
 All time are in PST.
 
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
-| **TIME (PST)** | **TOPIC** | **PRESENTER** |
+| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
 | 9:10 AM – 9:40 AM	 | Expanse 101: Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
@@ -31,7 +31,7 @@ All time are in PST.
 [Back to Top](#top)
 
 ### Cyberinfrastructure & HPC (Tues, 06/22/21)<a name="agenda-ci-hpc"></a>
-| **TIME (PST)** | **TOPIC** | **PRESENTER** |
+| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM - 9:00 AM    | 	Welcome, Orientation, & Introductions |  [Mary Thomas](#thomas)  |
 | 9:00 AM – 9:40 AM	   | Introduction HPC/Cyberinfrastructure   | [Robert Sinkovits](#sinkovit) |
@@ -46,7 +46,7 @@ All time are in PST.
 [Back to Top](#top)
 
 ### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
-| **TIME (PST)** | **TOPIC** | **PRESENTER** |
+| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM	Machine Learning (ML) Overview
 Mai Nguyen, Lead for Data Analytics & Paul Rodriguez, Research Analyst
