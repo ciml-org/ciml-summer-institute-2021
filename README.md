@@ -26,23 +26,29 @@ description here
 | 11:30 AM - 11:50 AM | Running Jobs on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
 | 11:50 AM - 12:00 PM | Interactive Computing/Jupyter Notebooks on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
 
+[Back to Top](#top)
 
 ### Cyberinfrastructure & HPC (Tues, 06/22/21)<a name="agenda-ci-hpc">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
 
+[Back to Top](#top)
 
 ### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
 
+[Back to Top](#top)
+
 ### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on">
 <a name="agenda-prep">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
+
+[Back to Top](#top)
 
 <hr>
   ## Instructors<a name="instructors"></a>
@@ -57,3 +63,5 @@ Lead -  Bioinformatics and Biomedical Applications, Data Science Hub [(bio)](htt
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, HPC Training Lead [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
+
+[Back to Top](#top)
