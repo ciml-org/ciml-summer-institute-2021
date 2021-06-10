@@ -38,10 +38,10 @@ All time are in PST.
 | 9:40 AM – 10:20 AM   | 	CPU Computing - Hardware, architecture, and software infrastructure  | [Mary Thomas](#thomas) |
 | 10:20 AM – 11:00 AM	 | GPU Computing - Hardware architecture and software infrastructure | [Andreas Goetz](#goetz) |
 | 11:00 AM – 11:45 AM  | Break/Lunch |    |
-11:45 PM – 12:25 PM 	 | Data Management and File Systems  | [Manu Shantharam](#shantharam) |
-12:25 PM – 1:05 PM     | Introduction to Singularity: Containers for Scientific and High-Performance Computing  | [Marty Kandes](#kandes)  |
-1:05 PM – 1:35 PM	     | Reproducibility in Science and Machine Learning | [Peter Rose](#rose) |
-1:35 PM – 2:00 PM      | 	Q&A, Wrap-up  |      |
+| 11:45 PM – 12:25 PM 	 | Data Management and File Systems  | [Manu Shantharam](#shantharam) |
+| 12:25 PM – 1:05 PM     | Introduction to Singularity: Containers for Scientific and High-Performance Computing  | [Marty Kandes](#kandes)  |
+| 1:05 PM – 1:35 PM	     | Reproducibility in Science and Machine Learning | [Peter Rose](#rose) |
+| 1:35 PM – 2:00 PM      | 	Q&A, Wrap-up  |      |
 
 [Back to Top](#top)
 
