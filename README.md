@@ -57,7 +57,7 @@ description here
 | ---------- | ----------- | ----------- |
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
 | Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Analytics [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
-| Paul Rodriquez<a name="prose"></a>  |  Research Programmer [(https://www.coursera.org/instructor/~13847302)](TBD) |  SDSC |
+| Paul Rodriquez<a name="prose"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
 | Peter Rose<a name="prose"></a>  |  Director -  Structural Bioinformatics Laboratory, and Lead -  Bioinformatics and Biomedical Applications, Data Science Hub [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  |
