@@ -38,7 +38,7 @@ description here
 | --- | ----------- | ----------- |
 | start - end  | topic | [presenter](#tbd) |
 
-## Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on)
+### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on">
 <a name="agenda-prep">
 **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
