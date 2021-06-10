@@ -60,7 +60,7 @@ All time are in PST.
 ### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM - 8:45 AM	Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
+| 8:00 AM - 8:45 AM	 | Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
 | 8:45 AM – 10:15 AM  |  Spark Hands-on | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
 | 10:15 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
 | 11:00 AM – 12:00 PM - Break/Lunch
