@@ -63,7 +63,7 @@ All time are in PST.
 | 8:00 AM - 8:45 AM	 | Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
 | 8:45 AM – 10:15 AM  |  Spark Hands-on | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
 | 10:15 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
-| 11:00 AM – 12:00 PM - Break/Lunch
+| 11:00 AM – 12:00 PM  |  Break/Lunch
 | 12:00 PM – 1:30 PM  | Continue Deep Learning Hands-on  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
 | 1:30 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
 
@@ -79,7 +79,7 @@ All time are in PST.
 | Marty Kandes<a name="kandes"></a>  |  Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/marty-kandes-b53a34144/) |  SDSC |
 | Mai Nguyen<a name="nguyen"></a>  |  Lead -  Data Analytics [(bio)](https://www.sdsc.edu/research/researcher_spotlight/nguyen_mai.html) |  SDSC |
 | Paul Rodriguez<a name="rodriguez"></a>  |  Research Programmer [(bio)](https://www.coursera.org/instructor/~13847302) |  SDSC |
-| Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory, and Lead -  Bioinformatics and Biomedical Applications, Data Science Hub [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
+| Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
 | Manu Shantharam <a name="shantharam"></a> | TITLE [(bio)](TBD) | SDSC |
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
