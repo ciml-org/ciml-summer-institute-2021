@@ -22,8 +22,6 @@ See this quick-start guide for using GitHub on SDSC resources: https://github.co
 
 We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and get started. Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
  
-Once you have downloaded the client, join the CIML-SDSC-2021 workspace here. 
- 
 When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
 
 See this quick-start guide: [here](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users)
