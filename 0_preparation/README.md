@@ -35,8 +35,7 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 <hr>
 
 ##  Computer Requirements: <a name="computer-req"></a>
-* We would recommend a second screen for the hands-on sessions. The first to view the presentation, the second for hands-on.
-* For visualization tutorial a mouse with scroll wheel is highly recommended (laptop track pads are very difficult to use for 3D navigation).
+* We recommend a second screen for the hands-on sessions. The first to view the presentation, the second for hands-on.
 
 [Back to Top](#top)
 <hr>
