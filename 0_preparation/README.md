@@ -20,18 +20,14 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
 
 ## Prep Day Schedule (6/18/2021, 9-11 am): <a name="prep-day"></a>
 
-* Welcome (Susan)
-* Tech Checks:
-  - Zoom. (Cindy)
-  - Slack (Cindy)
-  - GitHub (Marty)
-* Accounts
-  - Logging onto Expanse (Mary, Nicole)
-  - User environment (Mary)
-  - Interactive Compute Nodes
-* (Software Requirements Overview)[https://github.com/sdsc/sdsc-summer-institute-2020/blob/master/0_preparation/software_requirements.md]
-  - Launch R (Paul/Marty)
-  - Launch notebooks (Mary)
+### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
+| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
+| -------------------- | ----------- | ----------- |
+| 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
+| 9:10 AM – 9:40 AM	 | Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
+| 9:40 AM – 10:10 AM | Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
+| 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
+| 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
 
 Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
 
