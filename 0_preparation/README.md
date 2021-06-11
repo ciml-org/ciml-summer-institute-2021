@@ -6,10 +6,10 @@ To help you get the most out of this workshop, this section contains a set of de
 <a name="top">Contents
 * [Prep Day Schedule](#prep-day)
 * [Expanse User Guide](#expanse-guide)
-* [Computer Requirements](#computer-req)
 * [Account Requirements](#accounts)
   * [Logging onto Expanse training account](#logon-expanse)
   * [Logging onto the Expanse Portal](#logon-portal)
+* [Computer Requirements](#computer-req)
 * [Github Account](#github)
 * [Software Requirements](#software)
 * [Other Skills](#other-skills)
@@ -34,11 +34,7 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 [Back to Top](#top)
 <hr>
 
-##  Computer Requirements: <a name="computer-req"></a>
-* We recommend a second screen for the hands-on sessions. The first to view the presentation, the second for hands-on.
 
-[Back to Top](#top)
-<hr>
 
 ##  Accounts: <a name="accounts"></a>
 [Back to Top](#top)
@@ -55,6 +51,15 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 [Back to Top](#top)
 <hr>
 
+ ##  Laptop & set-up: <a name="computer-req"></a>
+* We recommend a second screen for the hands-on sessions. The first to view the presentation, the second for hands-on.
+*. After you access your account information, confirm that you can login (SSH) to Expanse using the device you plan to use during the CIML Summer Institute (laptop, workstation, etc...).  Detailed instructions on connecting to Expanse using SSH can be found here.  
+
+It has been suggested that a second monitor may be helpful during online instruction.  While one monitor could be used to follow instruction, the other for the hands-on.  Additionally, the use of a mouse may be beneficial as well during some sessions. 
+ 
+[Back to Top](#top)
+<hr>
+ 
 ##  Github Account: <a name="github"></a>
 * If you do not already have a GitHub account, please create one.
 See: [Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
