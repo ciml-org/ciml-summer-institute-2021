@@ -1,4 +1,4 @@
-# SDSC Training Account Information
+# Configuring Your Training Account
 
 Each member of the class, and instructors have a training account with a default user environment customized with the right paths and software paths, including the conda/mininconda software.
 
