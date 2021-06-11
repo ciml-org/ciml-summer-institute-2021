@@ -8,11 +8,14 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Expanse User Guide](#expanse-guide)
 * [Computer and Laptop Set-up](#computer-req)
 * [Account Requirements](#accounts)
-  * [Logging onto Expanse training account](#logon-expanse)
-  * [Logging onto the Expanse Portal](#logon-portal)
-* [Github Account](#github)
+   * [Logging onto Expanse training account](#logon-expanse)
+   * [Logging onto the Expanse Portal](#logon-portal)
+* [Remote access via Zoom, Slack, and GitHub](#remote)
+  * [Zoom](#zoom)
+  * [Slack](#slack)
+  * [Github Account](#github)
 * [Software Requirements](#software)
-* [Other Skills](#other-skills)
+* [Other BasicSkills](#other-skills)
 
 
 ## Prep Day Schedule (6/18/2021, 9-11 am): <a name="prep-day"></a>
@@ -58,13 +61,30 @@ It has been suggested that a second monitor may be helpful during online instruc
 [Back to Top](#top)
 <hr>
  
-##  Github Account: <a name="github"></a>
-* If you do not already have a GitHub account, please create one.
-See: [Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
+##  Remote access via Zoom, Slack, and GitHub <a name="remote"></a>
+ 
+* For the institute, we will coordinate our remote access via Zoom, Slack, and GitHub 
+* When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC)) 
+
+### Zoom:  <a name="zoom"></a>
+ You will need to install the latest Zoom client, which is available for Windows, MacOS and Linux, Once installed, you can test your microphone and camera interface with Zoom here. You can find more information on Zoom system requirements, including bandwidth requirements here.  
+
+To ensure the security of our Zoom links, details will be sent to all participants just prior to preparation day (June 18) and again prior to CIML Summer Institute week (June 22-24).  Zoom details for all sessions will be unique. 
+
+### Slack:  <a name="slack"></a>
+ We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and get started. Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
+ 
+
+ 
+
+ 
+### Github: <a name="github"></a>
+* Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+* For examples of using GitHub on Expanse, see: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 [Back to Top](#top)
 <hr>
-
+ 
 ## Software Requirements: <a name="software"></a>
 The document below contains a list of software being used at the institute and installation instructions:
 * [Software_Requirements](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/0_preparation/software_requirements.md)
@@ -72,7 +92,7 @@ The document below contains a list of software being used at the institute and i
 [Back to Top](#top)
 <hr>
 
-### Other Skills <a name="other-skills"></a>
+### Basic Skills <a name="other-skills"></a>
 See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
 https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
 
