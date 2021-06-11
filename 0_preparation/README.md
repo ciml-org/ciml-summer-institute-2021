@@ -10,6 +10,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Account Requirements](#accounts)
    * [Logging onto Expanse training account](#logon-expanse)
    * [Logging onto the Expanse Portal](#logon-portal)
+   * [Configuring Your Training Account](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/0_preparation/training_account_configurations.md)
 * [Remote access via Zoom, Slack, and GitHub](#remote)
   * [Zoom](#zoom)
   * [Slack](#slack)
