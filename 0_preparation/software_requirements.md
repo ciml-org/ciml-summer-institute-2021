@@ -1,6 +1,8 @@
 # Preparing for the Summer Institute: Software Requirements
 Some sessions require that customized software be installed on **your laptop**. Please perform the following software installations and file downloads prior to the event. <br/> *Note: several of the preparation activities will provide information and guidance on how to install the required software components.*
 
+** Last update:  6/11/2021; more updates expected
+
 ## Contents <a name="top"></a>
 
  * [Using GitHub](#github)
@@ -10,7 +12,7 @@ Some sessions require that customized software be installed on **your laptop**. 
 
 ## Using GitHub<a name="github"></a>
 
-Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here] (https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
 See this quick-start guide for using GitHub on SDSC resources: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 [Back to Top](#top)
@@ -18,7 +20,7 @@ See this quick-start guide for using GitHub on SDSC resources: https://github.co
 
 ## Using Slack<a name="slack"></a>
 
-See this quick-start guide: HERE
+See this quick-start guide: [here](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users)
 
 
 [Back to Top](#top)
