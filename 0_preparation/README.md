@@ -40,7 +40,7 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 [Back to Top](#top)
 <hr>
 
-##  Account Requirements: <a name="accounts"></a>
+##  Accounts: <a name="accounts"></a>
 [Back to Top](#top)
 <hr>
 
