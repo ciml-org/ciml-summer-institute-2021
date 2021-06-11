@@ -74,14 +74,27 @@ To ensure the security of our Zoom links, details will be sent to all participan
 ### Slack:  <a name="slack"></a>
  We will also be using [Slack](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users) as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and [get started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users). Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
  
+##### Using Slack<a name="slack"></a>
+* We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and get started. Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
+* When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
+* See this quick-start guide: [here](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users)
 
- 
-
- 
+  
 ### Github: <a name="github"></a>
 * Most of the training material will be located on the CIML Summer Institute GitHub repo and one of the Thursday hands-on sessions will require a GitHub account. * If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
 * For examples of using GitHub on Expanse, see: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
+  
+  ##### Using GitHub<a name="github"></a>
+
+* Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+See this quick-start guide for using GitHub on SDSC resources: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
+
+[Back to Top](#top)
+<hr>
+
+
+  
 [Back to Top](#top)
 <hr>
  
