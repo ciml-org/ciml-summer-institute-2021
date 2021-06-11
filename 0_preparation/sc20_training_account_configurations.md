@@ -1,4 +1,4 @@
-# SI20 Training Accounts
+# SDSC Training Account Information
 
 Each member of the class, and instructors have a training account with a default user environment customized with the right paths and software paths, including the conda/mininconda software.
 
@@ -6,9 +6,9 @@ Each member of the class, and instructors have a training account with a default
 
 ### [1] Do not replace the ```.bashrc``` with your own. 
 
-SC20 aliases and paths are pre-installed (see below) and if you replace the files you will not be able to run the example software.
+Aliases and paths are pre-installed (see below) and if you replace the files you will not be able to run the example software.
 
-### [2] SDSD staff have cleared out all the miniconda installs from each of your training directories. Please do not re-install conda. If you have trouble, go to the Gitter HelpDesk.
+### [2] Miniconda installs: institute satff will provide instructions for installing miniconda for the workshop on the preparation day. Please do not re-install conda. If you have trouble, go to the Slack HelpDesk.
 
 <hr>
 
