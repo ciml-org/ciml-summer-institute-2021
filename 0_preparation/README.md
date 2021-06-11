@@ -72,7 +72,7 @@ It has been suggested that a second monitor may be helpful during online instruc
 To ensure the security of our Zoom links, details will be sent to all participants just prior to preparation day (June 18) and again prior to CIML Summer Institute week (June 22-24).  Zoom details for all sessions will be unique. 
 
 ### Slack:  <a name="slack"></a>
- We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and get started. Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
+ We will also be using [Slack](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users) as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and [get started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users). Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
  
 
  
