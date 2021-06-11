@@ -23,8 +23,8 @@ All time are in PST.
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
-| 9:10 AM – 9:40 AM	 | Expanse 101: Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
-| 9:40 AM – 10:10 AM | 	Notebooks 101: Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
+| 9:10 AM – 9:40 AM	 | Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
+| 9:40 AM – 10:10 AM | Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
 | 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
 | 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
 
