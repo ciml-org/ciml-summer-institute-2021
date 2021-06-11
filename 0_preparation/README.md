@@ -73,7 +73,7 @@ See: [Using GitHub](https://github.com/sdsc-hpc-training-org/basic_skills/tree/m
 
 ## Software Requirements: <a name="software"></a>
 The document below contains a list of software being used at the institute and installation instructions:
-* [Software_Requirements](https://github.com/sdsc/sdsc-summer-institute-2020/blob/master/0_preparation/software_requirements.md)
+* [Software_Requirements](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/0_preparation/software_requirements.md)
 
 [Back to Top](#top)
 <hr>
