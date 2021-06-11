@@ -3,9 +3,6 @@ You will get the most out of the CIML Summer Institute if you are prepared prior
 
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
-## Preparation Activities:
-The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
-
 <a name="top">Contents
 * [Prep Day Schedule](#prep-day)
 * [Expanse User Guide](#expanse-guide)
