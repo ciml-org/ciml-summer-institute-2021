@@ -29,7 +29,7 @@ Note: if you have any difficulties getting set up, please contact Institute staf
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
-* [Expanse User Guide](http://www.sdsc.edu/support/user_guides/expanse.html)
+* [Expanse User Guide](https://www.sdsc.edu/support/user_guides/expanse.html)
 
 [Back to Top](#top)
 <hr>
