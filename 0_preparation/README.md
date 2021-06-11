@@ -67,7 +67,7 @@ It has been suggested that a second monitor may be helpful during online instruc
 * When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC)) 
 
 ### Zoom:  <a name="zoom"></a>
- You will need to install the latest Zoom client, which is available for Windows, MacOS and Linux, Once installed, you can test your microphone and camera interface with Zoom here. You can find more information on Zoom system requirements, including bandwidth requirements here.  
+ You will need to install the latest [Zoom](https://urldefense.com/v3/__https:/zoom.us/download__;!!Mih3wA!UGXaOZYQHBMwc07Vt0SbIo6BuDVjS0wz54dT6sb7Q9QMDnX831-1_4ewcxi5fw$) client, which is available for Windows, MacOS and Linux, Once installed, you can test your microphone and camera interface with Zoom here. You can find more information on Zoom system requirements, including bandwidth requirements here.  
 
 To ensure the security of our Zoom links, details will be sent to all participants just prior to preparation day (June 18) and again prior to CIML Summer Institute week (June 22-24).  Zoom details for all sessions will be unique. 
 
