@@ -75,7 +75,7 @@ To ensure the security of our Zoom links, details will be sent to all participan
  We will also be using [Slack](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users) as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and [get started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users). Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
  
 ##### Using Slack<a name="slack"></a>
-* We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download (Windows, MacOS, or Linux) and get started. Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
+* We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download ([Windows](https://slack.com/downloads/windows), [MacOS](https://slack.com/downloads/mac), or [Linux](https://slack.com/downloads/linux)) and [get started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users). Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts.  
 * When setting up your “display name” on Zoom & Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC))
 * See this quick-start guide: [here](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users)
 
