@@ -3,14 +3,15 @@ Some sessions require that customized software be installed on **your laptop**. 
 
 ## Contents <a name="top"></a>
 
- * [Preparation: Using GitHub](#github)
- * [Preparation: Using Slack](#slack)
- * [Machine Learning Overview](#mach-learn)
+ * [Using GitHub](#github)
+ * [Using Slack](#slack)
+ * [Machine Learning](#mach-learn)
 
 
 ## Using GitHub<a name="github"></a>
 
-See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/using_github
+Most of the training material will be located on the [CIML SI21 GitHub repo](https://github.com/ciml-org/ciml-summer-institute-2021). In addition, one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here] (https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+See this quick-start guide for using GitHub on SDSC resources: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 [Back to Top](#top)
 <hr>
@@ -23,7 +24,7 @@ See this quick-start guide: HERE
 [Back to Top](#top)
 <hr>
 
-## Parallel session: Machine Learning Overview (scheduled opposite Scientific Visualization with Visit) <a name="mach-learn"></a>
+## Machine Learning  <a name="mach-learn"></a>
 
 Participants who will be attending the Machine Learning Overview parallel session will need to install R (https://www.r-project.org/) and RStudio Desktop open source edition (https://www.rstudio.com/) on their laptops. 
 
