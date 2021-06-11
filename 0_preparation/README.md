@@ -26,11 +26,11 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
   - Slack (Cindy)
   - GitHub (Marty)
 * Accounts
-  - User environment (Mahi, Marty, Nicole)
-  - Logging onto Expanse (Mary, Mahi, Marty, Nicole, Scott)
+  - Logging onto Expanse (Mary, Nicole)
+  - User environment (Mary)
   - Interactive Compute Nodes
 * (Software Requirements Overview)[https://github.com/sdsc/sdsc-summer-institute-2020/blob/master/0_preparation/software_requirements.md]
-  - Launch R
+  - Launch R (Paul/Marty)
   - Launch notebooks (Mary)
 
 Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
