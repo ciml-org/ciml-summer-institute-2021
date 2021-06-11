@@ -20,7 +20,6 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
 
 ## Prep Day Schedule (6/18/2021, 9-11 am): <a name="prep-day"></a>
 
-### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
