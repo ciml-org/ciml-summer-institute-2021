@@ -39,10 +39,10 @@ All time are in PST.
 | 9:40 AM – 10:20 AM   | 	CPU Computing - Hardware, architecture, and software infrastructure  | [Mary Thomas](#thomas) |
 | 10:20 AM – 11:00 AM	 | GPU Computing - Hardware architecture and software infrastructure | [Andreas Goetz](#goetz) |
 | 11:00 AM – 11:45 AM  | Break/Lunch |    |
-| 11:45 PM – 12:25 PM | Data Management and File Systems  | [Manu Shantharam](#shantharam) |
-| 12:25 PM – 1:05 PM  | Introduction to Singularity: Containers for Scientific and High-Performance Computing  | [Marty Kandes](#kandes)  |
-| 1:05 PM – 1:35 PM | Reproducibility in Science and Machine Learning | [Peter Rose](#rose) |
-| 1:35 PM – 2:00 PM | 	Q&A, Wrap-up  |      |
+| 11:45 PM – 12:25 PM  | Data Management and File Systems  | [Manu Shantharam](#shantharam) |
+| 12:25 PM – 1:05 PM   | Introduction to Singularity: Containers for Scientific and High-Performance Computing  | [Marty Kandes](#kandes)  |
+| 1:05 PM – 1:35 PM    | Reproducibility in Science and Machine Learning | [Peter Rose](#rose) |
+| 1:35 PM – 2:00 PM.   | 	Q&A, Wrap-up  |      |
 
 [Back to Top](#top)
 
@@ -50,11 +50,13 @@ All time are in PST.
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM – 8:30 AM	   | Machine Learning (ML) Overview | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 8:30 AM – 9:15 AM  | 	R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 9:15 AM – 10:30 AM | 	Spark | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 10:30 AM – 11:30 PM  |  Break/ Lunch |  |
-| 11:30 AM – 1:30 PM 	 | Deep Learning  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 1:30 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
+| 8:30 AM – 9:15 AM    | 	R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 9:15 AM – 9:30 AM    |  Break  |  |
+| 9:30 AM – 10:45 AM.  | 	Spark | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 10:45 AM – 11:45 AM  |  Break/Lunch |  |
+| 11:45 AM –  12:30 PM |  Intro to NN/CNN  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
+| 12:30 PM – 1:45 PM 	 |  Deep Learning  | [ [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 1:45 PM – 2:00 PM    | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
 
@@ -62,11 +64,14 @@ All time are in PST.
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM - 8:45 AM	 | Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
-| 8:45 AM – 10:15 AM  |  Spark Hands-on | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 10:15 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 11:00 AM – 12:00 PM  |  Break/Lunch
-| 12:00 PM – 1:30 PM  | Continue Deep Learning Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 1:30 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
+| 8:45 AM – 9:45 AM  |  Spark Hands-on | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 9:45 AM – 10:00 AM  |  Break/Lunch  |  |
+| 10:00 AM - 10:30 AM	 | Continue Spark Hands-on Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 10:30 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 11:00 AM – 12:00 AM  |  Break/Lunch  |  |
+| 12:00 PM – 1:00 PM  | Deep Learning Transfer Learning Hands-on [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 12:00 PM – 1:30 PM  | Deep Sequence Learning  Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 1:345 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
 
