@@ -23,8 +23,8 @@ All time are in PST.
 | **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   |  Welcome & Orientation | [Cindy Wong](#wong) |
-| 9:20 AM – 9:50 AM	   |  Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
-| 9:50 AM – 10:10 AM   |  Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas)  |
+| 9:20 AM – 9:50 AM	   |  Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas)  |
+| 9:50 AM – 10:10 AM   |  Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
 | 10:10 AM – 10:30 AM  |  Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
 | 10:30 AM – 10:50 AM	 |  Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
 | 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | all |
