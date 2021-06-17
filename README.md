@@ -22,11 +22,11 @@ All time are in PST.
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
 | **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  Welcome & Orientation | [Mary Thomas](#thomas)   |
-| 9:20 AM – 9:50 AM	   |  Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas)  |
-| 9:50 AM – 10:10 AM   |  Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
-| 10:10 AM – 10:30 AM  |  Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
-| 10:30 AM – 10:50 AM	 |  Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
+| 9:00 AM - 9:20 AM	   |  1.1. Welcome & Orientation | [Mary Thomas](#thomas)   |
+| 9:20 AM – 9:50 AM	   |  1.2. Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas)  |
+| 9:50 AM – 10:10 AM   |  1.3. Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
+| 10:10 AM – 10:30 AM  |  1.4. Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
+| 10:30 AM – 10:50 AM	 |  1.5. Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
 | 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | all |
 
 [Back to Top](#top)
