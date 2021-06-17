@@ -20,13 +20,14 @@ description here
 All time are in PST.
 
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
-| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
-| -------------------- | ----------- | ----------- |
-| 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
-| 9:10 AM – 9:40 AM	 | Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
-| 9:40 AM – 10:10 AM | Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
-| 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
-| 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
+| **TIME (PST)**       | **# MINS** | | **TOPIC** | **PRESENTER** |
+| -------------------- | ----------- | ----------- | ----------- |
+| 9:00 AM - 9:20 AM	   | 10 | Welcome & Orientation | [Cindy Wong](#wong) |
+| 9:20 AM – 9:50 AM	   | 30 | Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
+| 9:50 AM – 10:10 AM   | 20 | Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas)  |
+| 10:10 AM – 10:30 AM  | 20 | Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
+| 10:30 AM – 10:50 AM	 | 20 | Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
+| 10:50 AM – 11:00 AM	 | 10 | Q&A, Wrap-up  | all |
 
 [Back to Top](#top)
 
@@ -82,8 +83,10 @@ All time are in PST.
 | Peter Rose<a name="rose"></a>  |  Director -  Structural Bioinformatics Laboratory [(bio)](https://www.sdsc.edu/research/researcher_spotlight/rose_peter.html) |  SDSC |
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
 | Manu Shantharam <a name="shantharam"></a> | TITLE [(bio)](TBD) | SDSC |
+| Subha Sivagnanam  <a name="sivagnanam"></a> | TITLE [(bio)](http://users.sdsc.edu/~sivagnan/) | SDSC |
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, Lead -  HPC Training  [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
+| Cindy Wong | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
 
 [Back to Top](#top)
