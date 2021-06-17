@@ -20,14 +20,14 @@ description here
 All time are in PST.
 
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
-| **TIME (PST)**       | **# MINS** |  **TOPIC** | **PRESENTER** |
-| -------------------- | ----------- | ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   | 10 | Welcome & Orientation | [Cindy Wong](#wong) |
-| 9:20 AM – 9:50 AM	   | 30 | Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
-| 9:50 AM – 10:10 AM   | 20 | Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas)  |
-| 10:10 AM – 10:30 AM  | 20 | Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
-| 10:30 AM – 10:50 AM	 | 20 | Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
-| 10:50 AM – 11:00 AM	 | 10 | Q&A, Wrap-up  | all |
+| **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
+| -------------------- |  ----------- | ----------- |
+| 9:00 AM - 9:20 AM	   |  Welcome & Orientation | [Cindy Wong](#wong) |
+| 9:20 AM – 9:50 AM	   |  Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
+| 9:50 AM – 10:10 AM   |  Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas)  |
+| 10:10 AM – 10:30 AM  |  Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
+| 10:30 AM – 10:50 AM	 |  Interactive Services Using the Expanse User Portal  | [Subha Sivagnanam](#sivagnanam) & [Marty Kandes](#kandes) |
+| 10:50 AM – 11:00 AM	 |  Q&A, Wrap-up  | all |
 
 [Back to Top](#top)
 
