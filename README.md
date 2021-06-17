@@ -49,13 +49,13 @@ All time are in PST.
 ### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:30 AM	   | Machine Learning (ML) Overview | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
-| 8:30 AM – 9:15 AM    | 	R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 8:00 AM – 8:30 AM	   | Machine Learning (ML) Overview | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 8:30 AM – 9:15 AM    | 	R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 9:15 AM – 9:30 AM    |  Break  |  |
-| 9:30 AM – 10:45 AM.  | 	Spark | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 9:30 AM – 10:45 AM.  | 	Spark | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 10:45 AM – 11:45 AM  |  Break/Lunch |  |
-| 11:45 AM –  12:30 PM |  Intro to NN/CNN  | [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez)  |
-| 12:30 PM – 1:45 PM 	 |  Deep Learning  | [ [Mai Nguyen](#nguyen) & [Paul Rodriguez](#rodriguez) |
+| 11:45 AM –  12:30 PM |  Intro to NN/CNN  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 12:30 PM – 1:45 PM 	 |  Deep Learning  | [ [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 1:45 PM – 2:00 PM    | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
@@ -69,7 +69,7 @@ All time are in PST.
 | 10:00 AM - 10:30 AM	 | Continue Spark Hands-on Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 10:30 AM - 11:00 AM	 | Deep Learning Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 11:00 AM – 12:00 AM  |  Break/Lunch  |  |
-| 12:00 PM – 1:00 PM  | Deep Learning Transfer Learning Hands-on [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 12:00 PM – 1:00 PM  | Deep Learning Transfer Learning Hands-on |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 12:00 PM – 1:30 PM  | Deep Sequence Learning  Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 1:345 PM – 2:00 PM  | 	Q&A, Wrap-up  |  |
 
