@@ -22,7 +22,7 @@ All time are in PST.
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
 | **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  Welcome & Orientation | [Cindy Wong](#wong) |
+| 9:00 AM - 9:20 AM	   |  Welcome & Orientation | [Mary Thomas](#thomas)   |
 | 9:20 AM – 9:50 AM	   |  Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas)  |
 | 9:50 AM – 10:10 AM   |  Running Secure Jupyter Notebooks on Expanse| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
 | 10:10 AM – 10:30 AM  |  Installing your own miniconda & creating conda environments  | [Peter Rose](#tbd) |
