@@ -20,7 +20,7 @@ description here
 All time are in PST.
 
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
-| **TIME (PST)**       | **# MINS** | | **TOPIC** | **PRESENTER** |
+| **TIME (PST)**       | **# MINS** |  **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- | ----------- |
 | 9:00 AM - 9:20 AM	   | 10 | Welcome & Orientation | [Cindy Wong](#wong) |
 | 9:20 AM – 9:50 AM	   | 30 | Accounts, Login, Environment, Running Jobs  | [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
