@@ -31,13 +31,13 @@ conda list
 A list of installed packages appears if it has been installed correctly.
 
 
-#### Create a Conda Environment for this repository
-First, we create a local copy of the following training repository by cloning it with git.
+#### Create a Conda Environment for the notebooks-sharing Repository
+First, create a local copy of the training repository by cloning it with git.
 ```
 git clone https://github.com/sdsc-hpc-training-org/notebooks-sharing.git
 ```
 
-Then, we create a Conda environment that contains specific versions of all the packages needed to reproduce the results of this study. Note, the `&` at the end. This will run the command in the background.
+Then, create a Conda environment that contains specific versions of all the packages needed to reproduce the results of this study. Note, the `&` at the end. This will run the command in the background.
 ```
 conda env create -f notebooks-sharing/environment.yml &
 ```
@@ -54,7 +54,7 @@ Use the galyleo script to launch Jupyter on the Expanse command line. First, set
 export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 ```
 
-Run the galyleo script to launch Jupyter. We already specified your Expanse project allocation account number (sds184) with the `--account option`. In general, you can look up your allocation information from the [Expanse Portal Dashboad](https://portal.expanse.sdsc.edu) under the Clusters->Allocation and Usage Information tab.
+Run the galyleo script to launch Jupyter. We already specified your Expanse project allocation account number (sds184) with the `--account` option. In general, you can look up your allocation information from the [Expanse Portal Dashboad](https://portal.expanse.sdsc.edu) under the Clusters->Allocation and Usage Information tab.
 
 ```
 galyleo.sh launch --account sds184 --partition 'shared' --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --conda-env 'notebooks-sharing' --quiet
