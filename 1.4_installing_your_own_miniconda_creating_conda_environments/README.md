@@ -13,13 +13,20 @@ Download the Minconda3 installation script.
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
-Run the Miniconda3 installation script.
-```
-bash Miniconda3-latest-Linux-x86_64.sh
-```
-Follow the prompts on the installer screens. Answer **yes** to the prompts and accept the defaults.
 
-The installer will modify your .bashrc file. To make the changes take effect, run the following command.
+Run the Miniconda3 installation script in batch mode.
+```
+bash Miniconda3-latest-Linux-x86_64.sh -b -f
+```
+
+Then, add the following line at the bottom of your .bashrc file. **Important, replace xdtr99 with your Expanse username!**
+```
+source /home/xdtr99/miniconda3/etc/profile.d/conda.sh
+```
+
+You can use the `nano` editor to edit your .bashrc file, e.g. `nano .bashrc`.
+
+To make the changes to your .bashrc take effect, run the following command.
 ```
 source ~/.bashrc
 ```
@@ -37,13 +44,39 @@ First, create a local copy of the training repository by cloning it with git.
 git clone https://github.com/sdsc-hpc-training-org/notebooks-sharing.git
 ```
 
-Then, create a Conda environment that contains specific versions of all the packages needed to reproduce the results of this study. Note, the `&` at the end. This will run the command in the background.
+Then, create a Conda environment that contains specific versions of all the packages needed to reproduce the results of this study. Note, the `&` at the end. This will run the command in the background. The nohup command will keep the installation going, even if you logout or get disconnected.
 ```
-conda env create -f notebooks-sharing/environment.yml &
+nohup conda env create -f notebooks-sharing/environment.yml > conda-notebook-env-install.log &
 ```
-Finally, disown the background process so it continues even if your terminal window times out.
+
+Next, check if the `notebooks-sharing` environment has been created.
 ```
-disown %1
+conda env list
+```
+
+You should see the following output:
+```
+# conda environments:
+#
+base                  *  /home/xdtr99/miniconda3
+notebooks-sharing        /home/xdtr99/miniconda3/envs/notebooks-sharing
+```
+
+If you do not see the expected output, check the `conda-notebook-env-install.log` file for error messages.
+
+#### What should I do if any of these steps fail?
+First, you can post any problem in the Slack channel and we'll work with you to try to fix it. We still have a few days to fix any issues. The hands-on session on Thursday will use this setup.
+
+If all fails, we have a backup solution. Add the following line at the bottom of your .bashrc file to use a preinstalled conda environment.
+```
+source /home/xdtr99/miniconda3/etc/profile.d/conda.sh
+```
+
+You can use the `nano` editor to edit your .bashrc file, e.g. `nano .bashrc`.
+
+To make the changes to your .bashrc take effect, run the following command.
+```
+source ~/.bashrc
 ```
 
 ### Run the Jupyter Notebooks in an Expanse Terminal
@@ -57,7 +90,8 @@ export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 Run the galyleo script to launch Jupyter. We already specified your Expanse project allocation account number (sds184) with the `--account` option. In general, you can look up your allocation information from the [Expanse Portal Dashboad](https://portal.expanse.sdsc.edu) under the Clusters->Allocation and Usage Information tab.
 
 ```
-galyleo.sh launch --account sds184 --partition 'shared' --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --conda-env 'notebooks-sharing' --quiet
+galyleo.sh launch --account sds184 --partition 'shared' --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --conda-env 'notebooks-sharing'
 ```
 
 After you run this command, a URL is displayed. Copy this URL and paste it into a web browser to launch your interactive session.
+
