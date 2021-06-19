@@ -55,6 +55,13 @@ Then, create a Conda environment that contains specific versions of all the pack
 nohup conda env create -f notebooks-sharing/environment.yml > conda-notebook-env-install.log &
 ```
 
+To check if your installation is complete, run the following command:
+```
+ls -l miniconda3/envs/notebooks-sharing/*|wc -l
+```
+
+It should print `2204`.
+
 When the installation is completed, check if the `notebooks-sharing` environment has been created.
 ```
 conda env list
@@ -73,17 +80,15 @@ If you do not see the expected output, check the `conda-notebook-env-install.log
 #### What should I do if any of these steps fail?
 First, you can post any problem in the Slack channel and we'll work with you to try to fix it. We still have a few days to fix any issues. The hands-on session on Thursday will use this setup.
 
-If all fails, we have a backup solution. Add the following line at the bottom of your .bashrc file to use a preinstalled conda environment.
+If all fails, we have a backup solution. 
+
+Run the following command to add a preinstalled notebooks-sharing conda environment to your .bashrc file.
 ```
-source /home/xdtr99/miniconda3/etc/profile.d/conda.sh
+echo "source /home/xdtr99/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc 
 ```
 
-You can use the `nano` editor to edit your .bashrc file, e.g. `nano .bashrc`.
+**Log out of your account and log back in** to make the changes to your .bashrc file take effect.
 
-To make the changes to your .bashrc take effect, run the following command.
-```
-source ~/.bashrc
-```
 
 ### Run the Jupyter Notebooks in an Expanse Terminal
 
