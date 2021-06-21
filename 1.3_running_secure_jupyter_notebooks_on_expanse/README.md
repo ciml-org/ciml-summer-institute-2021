@@ -6,5 +6,5 @@
 ## By: Mary Thomas
 
 ## Instructions:
-* Download the PDF
-* Follow self guided tutorial here: https://hpc-training.sdsc.edu/notebooks-101/
+* Follow the presentation as needed
+* For more information, follow self guided tutorial here: https://hpc-training.sdsc.edu/notebooks-101/
