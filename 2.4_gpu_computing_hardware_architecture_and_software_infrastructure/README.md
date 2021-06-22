@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CIML Summer Institute: GPU Computing - Hardware Architecture and Software Infrastructure
 
 ## Session: 2.4_gpu_computing_hardware_architecture_and_software_infrastructure
