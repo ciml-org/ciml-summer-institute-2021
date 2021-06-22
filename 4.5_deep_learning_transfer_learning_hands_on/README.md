@@ -12,7 +12,7 @@ Use your XSEDE username (trainXX) and password to login to the portal.
 
 **3. Specify your Job Parameters**
 
-Account:  <account>
+Account:  \<account>
   
 Partition:  shared
   
@@ -28,7 +28,7 @@ Singularity Image File: /cm/shared/apps/containers/singularity/tensorflow/tensor
   
 Environment modules to be loaded: singularitypro
   
-Reservation: <reservation>
+Reservation: \<reservation>
   
 Working directory:  home
   
