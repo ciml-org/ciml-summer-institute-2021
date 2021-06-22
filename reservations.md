@@ -1,7 +1,15 @@
 # CIML Summer Institute:  CPU and GPU Slurm reservations
 
+## Summary:
 
+| **Reservation** |  System | **User Group** |
+| ----------- | ---------- | ----------| 
+| ciml-day1 | CPU | Instructors |
+| ciml-day2 | CPU | Instructors |
+| ciml-day3 | CPU | Instructors & Class |
+| ciml-day2.5 | CPU | Instructors & Class |
 
+<hr>
 ## To get the most current reservations, run the following command on Expanse:
 ```
 [mthomas@login01 ~]$ scontrol show res
