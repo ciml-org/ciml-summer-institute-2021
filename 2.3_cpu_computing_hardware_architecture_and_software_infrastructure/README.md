@@ -1,1 +1,10 @@
-2.3_cpu_computing_hardware_architecture_and_software_infrastructure/
+# CIML Summer Institute:  CPU Computing - Hardware, architecture, and software infrastructure
+
+## Session:  2.3_cpu_computing_hardware_architecture_and_software_infrastructure/
+
+## June 22, 2021
+## Presented By: Mary Thomas
+
+## Instructions:
+* Follow the PDF as needed.
+* To learn more: follow self guided tutorial here: https://hpc-training.sdsc.edu/expanse-101/
