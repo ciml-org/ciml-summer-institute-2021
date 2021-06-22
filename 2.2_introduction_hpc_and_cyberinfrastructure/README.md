@@ -4,7 +4,7 @@
 
 ## June 22, 2021
 
-## Presented By: Rober Sinkovitz
+## Presented By: Bob Sinkovitz
 
 ## Instructions:
 *
