@@ -10,6 +10,7 @@
 ## Last updated:   Mon Jun 21 18:41:29 PDT 2021
 [mthomas@login01 ~]$ 
 [mthomas@login01 ~]$ scontrol show res
+
 ReservationName=k8s StartTime=2021-01-07T13:55:40 EndTime=2022-04-07T08:00:00 Duration=454-17:04:20
    Nodes=exp-13-[55-56] NodeCnt=2 CoreCnt=256 Features=(null) PartitionName=(null) Flags=IGNORE_JOBS,SPEC_NODES
    TRES=cpu=256
