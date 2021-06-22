@@ -70,7 +70,7 @@ def parallel_plot(data, num_classes, ylim=[-3,+3], figsize=(15,8), colors=None, 
     my_colors = colors
     if my_colors is None:
         # my_colors = list(islice(cycle(['b', 'r', 'g', 'y', 'c', 'k', 'm']), None, num_classes))
-        my_colors = list(islice(cycle(['b', 'y', 'g', 'r', 'c', 'k', 'm']), None, num_classes))
+        my_colors = list(islice(cycle(['r', 'y', 'g', 'b', 'c', 'k', 'm']), None, num_classes))
 
 
 
