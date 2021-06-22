@@ -14,9 +14,9 @@ Use your XSEDE username (trainXX) and password to login to the portal.
 
 Account:  \<account>
   
-Partition:  shared
+Partition:  gpu-shared
   
-Time limit (min): 120
+Time limit (min): 180
   
 Number of cores: 10
   
@@ -48,6 +48,13 @@ ssh <username>@login.expanse.sdsc.edu
 ```
 start_gpu
 ```
+
+This is an alias for
+
+export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
+
+galyleo.sh launch --account <account> --reservation <reservation> --partition 'gpu-shared' --cpus-per-task 10 --memory-per-node 93 --gpus 1 --time-limit 03:00:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif' --bind '/expanse,/scratch,/cvmfs' --nv --quiet
+
 
 **3. Copy URL in a web browser**
 
