@@ -57,7 +57,7 @@ nohup conda env create -f notebooks-sharing/environment.yml > conda-notebook-env
 
 To monitor progress of the installation you can look at the bottom of the log file.
 ```
-tail -20 conda-notebook-env-install.log
+ls -al conda-notebook-env-install.log; tail -20 conda-notebook-env-install.log
 ```
 
 When the installation is completed, the `notebooks-sharing` environment should be in the list of the conda environments.
