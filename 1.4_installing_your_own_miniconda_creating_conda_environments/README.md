@@ -55,14 +55,12 @@ Then, create a Conda environment that contains specific versions of all the pack
 nohup conda env create -f notebooks-sharing/environment.yml > conda-notebook-env-install.log &
 ```
 
-To check if your installation is complete, run the following command:
+To monitor progress of the installation you can look at the bottom of the log file.
 ```
-ls -l miniconda3/envs/notebooks-sharing/*|wc -l
+tail -20 conda-notebook-env-install.log
 ```
 
-It should print `2204` or `2205`.
-
-When the installation is completed, check if the `notebooks-sharing` environment has been created.
+When the installation is completed, the `notebooks-sharing` environment should be in the list of the conda environments.
 ```
 conda env list
 ```
@@ -90,7 +88,7 @@ echo "source /home/xdtr99/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
 **Log out of your account and log back in** to make the changes to your .bashrc file take effect.
 
 
-### Run the Jupyter Notebooks in an Expanse Terminal
+### Test your installation by launching Jupyter
 
 Use the galyleo script to launch Jupyter on the Expanse command line. First, set the path to the galyleo script.
 
