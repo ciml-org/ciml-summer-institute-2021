@@ -22,7 +22,7 @@ All times are in PST.
 ### Preparation Day (Fri, 06/18/21) <a name="agenda-prep"></a>
 | **TIME (PST)**       |   **TOPIC** | **PRESENTER** |
 | -------------------- |  ----------- | ----------- |
-| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.1_welcome_and_orientation) | [Mary Thomas](#thomas)   |
+| 9:00 AM - 9:20 AM	   |  [1.1. Welcome & Orientation](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.1_prep_day_welcome_and_orientation) | [Mary Thomas](#thomas)   |
 | 9:20 AM – 9:50 AM	   |  [1.2. Accounts, Login, Environment, Running Jobs](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.2_accounts_login_environments_running_jobs)  | [Mary Thomas](#thomas)  |
 | 9:50 AM – 10:10 AM   |  [1.3. Running Secure Jupyter Notebooks on Expanse](https://github.com/ciml-org/ciml-summer-institute-2021/blob/main/1.3_running_secure_jupyter_notebooks_on_expanse/MThomas-Running-Secure-Jupyter-Notebooks-Using-the-Satellite-Service-CIMLSI21-PreDay.pdf)| [Mary Thomas](#thomas) & [Marty Kandes](#kandes) |
 | 10:10 AM – 10:30 AM  |  [1.4. Installing your own miniconda & creating conda environments](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/1.4_installing_your_own_miniconda_creating_conda_environments)  | [Peter Rose](#rose) |
