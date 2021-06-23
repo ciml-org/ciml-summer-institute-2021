@@ -14,8 +14,10 @@
 * All presentations are located in this repository.
 
 ## Description:<a name="description"></a>
-description here
-
+This repository contains all the presentations and training material used for the CIML Summer Institute.
+To work with the material, remember to CLONE this repo.
+ 
+ 
 ## Agenda:<a name="agenda"></a>
 All times are in PST.
 
