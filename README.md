@@ -49,14 +49,14 @@ All times are in PST.
 ### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:30 AM	   |  3.1 Machine Learning (ML) Overview | [Mai Nguyen](#nguyen)  |
-| 8:30 AM – 9:15 AM    | 	3.2 R on High-Performance Computing (HPC) |  [Paul Rodriguez](#rodriguez) |
+| 8:00 AM – 8:30 AM	   |  [3.1 Machine Learning (ML) Overview](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.1_machine_learning_ml_overview)  | [Mai Nguyen](#nguyen)  |
+| 8:30 AM – 9:15 AM    | 	[3.2 R on High-Performance Computing (HPC)](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.2_r_on_high_performance_computing)  |  [Paul Rodriguez](#rodriguez) |
 | 9:15 AM – 9:30 AM    |  Break  |  |
-| 9:30 AM – 10:45 AM.  |  3.3	Spark | [Mai Nguyen](#nguyen)  |
+| 9:30 AM – 10:45 AM.  |  [3.3	Spark](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.3_spark)  | [Mai Nguyen](#nguyen)  |
 | 10:45 AM – 11:45 AM  |  Break/Lunch |  |
-| 11:45 AM –  12:30 PM |  3.4 Intro to NN/CNN  | [Paul Rodriguez](#rodriguez)  |
+| 11:45 AM –  12:30 PM |  [3.4 Intro to NN/CNN](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.4_intro_to_nn_cnn)   | [Paul Rodriguez](#rodriguez)  |
 | 12:15 AM – 12:30 AM  |  Break/Lunch |  |
-| 12:30 PM – 1:45 PM 	 |  3.5 Deep Learning  |  [Mai Nguyen](#nguyen) |
+| 12:30 PM – 1:45 PM 	 |  [3.5 Deep Learning](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/3.5_deep_learning)  |  [Mai Nguyen](#nguyen) |
 | 1:45 PM – 2:00 PM    | 	3.6 Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
