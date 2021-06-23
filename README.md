@@ -49,13 +49,13 @@ All times are in PST.
 ### Scalable Machine Learning (Weds, 06/23/21)<a name="agenda-scalable-ml"></a>
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM – 8:30 AM	   |  3.1 Machine Learning (ML) Overview | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 8:30 AM – 9:15 AM    | 	3.2 R on High-Performance Computing (HPC) | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 8:00 AM – 8:30 AM	   |  3.1 Machine Learning (ML) Overview | [Mai Nguyen](#nguyen)  |
+| 8:30 AM – 9:15 AM    | 	3.2 R on High-Performance Computing (HPC) |  [Paul Rodriguez](#rodriguez) |
 | 9:15 AM – 9:30 AM    |  Break  |  |
-| 9:30 AM – 10:45 AM.  |  3.3	Spark | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 9:30 AM – 10:45 AM.  |  3.3	Spark | [Mai Nguyen](#nguyen)  |
 | 10:45 AM – 11:45 AM  |  Break/Lunch |  |
-| 11:45 AM –  12:30 PM |  3.4 Intro to NN/CNN  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 12:30 PM – 1:45 PM 	 |  3.5 Deep Learning  | [ [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 11:45 AM –  12:30 PM |  3.4 Intro to NN/CNN  | [Paul Rodriguez](#rodriguez)  |
+| 12:30 PM – 1:45 PM 	 |  3.5 Deep Learning  | [ [Mai Nguyen](#nguyen) |
 | 1:45 PM – 2:00 PM    | 	3.6 Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
