@@ -55,6 +55,7 @@ All times are in PST.
 | 9:30 AM – 10:45 AM.  |  3.3	Spark | [Mai Nguyen](#nguyen)  |
 | 10:45 AM – 11:45 AM  |  Break/Lunch |  |
 | 11:45 AM –  12:30 PM |  3.4 Intro to NN/CNN  | [Paul Rodriguez](#rodriguez)  |
+| 12:15 AM – 12:30 AM  |  Break/Lunch |  |
 | 12:30 PM – 1:45 PM 	 |  3.5 Deep Learning  |  [Mai Nguyen](#nguyen) |
 | 1:45 PM – 2:00 PM    | 	3.6 Q&A, Wrap-up  |  |
 
