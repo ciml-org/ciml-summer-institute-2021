@@ -60,7 +60,7 @@ To check if your installation is complete, run the following command:
 ls -l miniconda3/envs/notebooks-sharing/*|wc -l
 ```
 
-It should print `2204`.
+It should print `2204` or `2205`.
 
 When the installation is completed, check if the `notebooks-sharing` environment has been created.
 ```
