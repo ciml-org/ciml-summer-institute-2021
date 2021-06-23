@@ -34,14 +34,14 @@ All times are in PST.
 ### Cyberinfrastructure & HPC (Tues, 06/22/21)<a name="agenda-ci-hpc"></a>
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM - 9:00 AM    | 	2.1 Welcome, Orientation, & Introductions |  [Mary Thomas](#thomas)  |
-| 9:00 AM – 9:40 AM	   |  2.2 Introduction HPC/Cyberinfrastructure   | [Robert Sinkovits](#sinkovit) |
-| 9:40 AM – 10:20 AM   | 	2.3 CPU Computing - Hardware, architecture, and software infrastructure  | [Mary Thomas](#thomas) |
-| 10:20 AM – 11:00 AM	 |  2.4 GPU Computing - Hardware architecture and software infrastructure | [Andreas Goetz](#goetz) |
+| 8:00 AM - 9:00 AM    | 	[2.1 Welcome, Orientation, & Introductions]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.1_welcome_orientation_and_introductions ) |  [Mary Thomas](#thomas)  |
+| 9:00 AM – 9:40 AM	   |  [2.2 Introduction HPC/Cyberinfrastructure](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.2_introduction_hpc_and_cyberinfrastructure  )   | [Robert Sinkovits](#sinkovit) |
+| 9:40 AM – 10:20 AM   | 	[2.3 CPU Computing - Hardware, architecture, and software infrastructure](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.3_cpu_computing_hardware_architecture_and_software_infrastructure  )  | [Mary Thomas](#thomas) |
+| 10:20 AM – 11:00 AM	 |  [2.4 GPU Computing - Hardware architecture and software infrastructure]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.4_gpu_computing_hardware_architecture_and_software_infrastructure ) | [Andreas Goetz](#goetz) |
 | 11:00 AM – 11:45 AM  | Break/Lunch |    |
-| 11:45 PM – 12:25 PM  |  2.5 Data Management and File Systems  | [Manu Shantharam](#shantharam) |
-| 12:25 PM – 1:05 PM   |  2.6 Introduction to Singularity: Containers for Scientific and High-Performance Computing  | [Marty Kandes](#kandes)  |
-| 1:05 PM – 1:35 PM    |  2.7 Reproducibility in Science and Machine Learning | [Peter Rose](#rose) |
+| 11:45 PM – 12:25 PM  |  [2.5 Data Management and File Systems]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.5_data_management_and_file_systems )  | [Manu Shantharam](#shantharam) |
+| 12:25 PM – 1:05 PM   |  [2.6 Introduction to Singularity: Containers for Scientific and High-Performance Computing](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.6_introduction_to_singularit_containers_for_scientific_and_high-performance_computing  )  | [Marty Kandes](#kandes)  |
+| 1:05 PM – 1:35 PM    |  [2.7 Reproducibility in Science and Machine Learning](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/2.7_reproducibility_in_science_and_machine_learning  ) | [Peter Rose](#rose) |
 | 1:35 PM – 2:00 PM.   | 	Q&A, Wrap-up  |      |
 
 [Back to Top](#top)
