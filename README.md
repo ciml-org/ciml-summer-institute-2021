@@ -64,14 +64,14 @@ All times are in PST.
 ### Machine Learning Hands-on (Thurs, 06/24/21)<a name="agenda-hands-on"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
-| 8:00 AM - 8:45 AM	   |  4.1 Writing and Sharing Computational Analyses in Jupyter Notebooks  | [Peter Rose](#rose)  |
-| 8:45 AM – 9:45 AM    |  4.2 Spark Hands-on | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 8:00 AM - 8:45 AM	   |  [4.1 Writing and Sharing Computational Analyses in Jupyter Notebooks]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.1_writing_and_sharing_computational_analyses_in_jupyter_notebooks)  | [Peter Rose](#rose)  |
+| 8:45 AM – 9:45 AM    |  [4.2 Spark Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.2_spark_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 9:45 AM – 10:00 AM   |  Break/Lunch  |  |
-| 10:00 AM - 10:30 AM	 |  4.3 Continue Spark Hands-on Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 10:30 AM - 11:00 AM	 |  4.4 Deep Learning Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 10:00 AM - 10:30 AM	 |  [4.3 Continue Spark Hands-on Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.3_continue_spark_hands_on_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 10:30 AM - 11:00 AM	 |  [4.4 Deep Learning Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.4_deep_learning_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 11:00 AM – 12:00 PM  |  Break/Lunch  |  |
-| 12:00 PM – 1:00 PM   |  4.5 Deep Learning Transfer Learning Hands-on |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 11:00 PM – 1:45 PM   |  4.6 Deep Sequence Learning  Hands-on  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 12:00 PM – 1:00 PM   |  [4.5 Deep Learning Transfer Learning Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.5_deep_learning_transfer_learning_hands_on )  |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 11:00 PM – 1:45 PM   |  [4.6 Deep Sequence Learning  Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.6_deep_sequence_learning_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 1:45 PM – 2:00 PM    | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
