@@ -67,7 +67,7 @@ All times are in PST.
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
 | 8:00 AM - 9:15 AM	   |  [4.1 Writing and Sharing Computational Analyses in Jupyter Notebooks]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.1_writing_and_sharing_computational_analyses_in_jupyter_notebooks)  | [Peter Rose](#rose)  |
-| 9:15 AM – 9:30 AM   |  Break/Lunch  |  |
+| 9:15 AM – 9:30 AM   |  Break |  |
 | 9:30 AM – 10:00 AM    |  [4.2 Spark Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.2_spark_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 10:00 AM - 10:30 AM	 |  [4.3 Continue Spark Hands-on Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.3_continue_spark_hands_on_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 10:30 AM - 11:00 AM	 |  [4.4 Deep Learning Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.4_deep_learning_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
