@@ -161,6 +161,7 @@ Expand the Binder Badge section at the bottom and copy the Markdown (first box).
 Paste the Markdown for the Binder Badge into the README.md file (find placeholder).
 
 **4. Commit changes to your README.md file**
+
 To save the README.md file, go to the bottom, enter a comment and click `Commit changes`.
 
 **5. Launch Jupyter from the Binder Badge**
