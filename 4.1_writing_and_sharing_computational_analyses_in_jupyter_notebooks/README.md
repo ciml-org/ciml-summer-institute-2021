@@ -43,7 +43,7 @@ Use your XSEDE username (trainXX) and password to login to the portal.
 **2. Select Jupyter from the `Interactive Apps` menu on the Expanse Portal.**
 
 <p align="center">
-<img src="docs/portal.png", width="60%">
+<img src="portal.png", width="60%">
 </p>
 
 **3. Specify your Job Parameters**
@@ -51,7 +51,7 @@ Use your XSEDE username (trainXX) and password to login to the portal.
 Fill in the following parameters in the jobs parameter page. Be careful use exactly the same options as shown in the image below. Double-check all options before you click the submit button.
 
 <p align="center">
-<img src="docs/job_parameters_ciml_day3.png", width="80%">
+<img src="job_parameters_ciml_day3.png", width="80%">
 </p>
 
 **4. Monitor the Job Status**
@@ -59,7 +59,7 @@ Fill in the following parameters in the jobs parameter page. Be careful use exac
 After you click submit, the next page shows a progress bar for your interactive session. Once all for stages are green, you will be directed to the next page.
 
 <p align="center">
-<img src="docs/reverse_proxy.png", width="60%">
+<img src="reverse_proxy.png", width="60%">
 </p>
 
 
@@ -68,7 +68,7 @@ After you click submit, the next page shows a progress bar for your interactive 
 Once the interactive session is active, select the session you want to launch from the list of your currently running sessions. The latest session appears at the bottom of the list.
 
 <p align="center">
-<img src="docs/notebook_jobs.png", width="80%">
+<img src="notebook_jobs.png", width="80%">
 </p>
 
 **6. Run Jupyter Lab**
@@ -86,7 +86,7 @@ Predict the protein fold class for one of the following proteins using the prote
 
 **Structure 1**
 <p align="center">
-<img src="docs/7l6u_assembly-1.jpeg", width="30%">
+<img src="7l6u_assembly-1.jpeg", width="30%">
 </p>
 
 Source: [PDB:7L6U](https://www.rcsb.org/structure/7L6U)
@@ -97,7 +97,7 @@ APADNAADARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFIN
 
 **Structure 2**
 <p align="center">
-<img src="docs/7b5j_assembly-1.jpeg", width="30%">
+<img src="7b5j_assembly-1.jpeg", width="30%">
 </p>
 
 Source: [PDB:7B5J](https://www.rcsb.org/structure/7B5J)
@@ -108,7 +108,7 @@ TNKELQAIRKLLMLDVSEAAEHIGRVSARSWQYWESGRSAVPDDVEQEMLDLASVRIEMMSAIDKRLADGERPKLRFYNK
 
 **Structure 3**
 <p align="center">
-<img src="docs/7o3i_assembly-1.jpeg", width="30%">
+<img src="7o3i_assembly-1.jpeg", width="30%">
 </p>
 
 Source: [PDB:7O3I](https://www.rcsb.org/structure/7O3I)
@@ -144,7 +144,7 @@ Expand the Binder Badge section at the bottom and copy the Markdown (first box).
 
 Click the "pencil" to edit the README.md file
 <p align="center">
-<img src="docs/edit.png", width="80%">
+<img src="edit.png", width="80%">
 </p>
 
 Paste the Markdown for the Binder Badge into the README.md file (find placeholder).
