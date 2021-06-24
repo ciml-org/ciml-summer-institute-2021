@@ -70,10 +70,10 @@ All times are in PST.
 | 9:15 AM – 9:30 AM   |  Break |  |
 | 9:30 AM – 10:00 AM    |  [4.2 Spark Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.2_spark_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
 | 10:00 AM - 10:30 AM	 |  [4.3 Continue Spark Hands-on Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.3_continue_spark_hands_on_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 10:30 AM - 11:00 AM	 |  [4.4 Deep Learning Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.4_deep_learning_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
-| 11:00 AM – 12:00 PM  |  Break/Lunch  |  |
-| 12:00 PM – 1:00 PM   |  [4.5 Deep Learning Transfer Learning Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.5_deep_learning_transfer_learning_hands_on )  |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
-| 11:00 PM – 1:45 PM   |  [4.6 Deep Sequence Learning  Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.6_deep_sequence_learning_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 10:30 AM - 11:30 AM	 |  [4.4 Deep Learning Hands-on](https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.4_deep_learning_hands_on )  | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez)  |
+| 11:30 AM – 12:15 PM  |  Break/Lunch  |  |
+| 12:15 PM – 1:00 PM   |  [4.5 Deep Learning Transfer Learning Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.5_deep_learning_transfer_learning_hands_on )  |[Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
+| 1:00 PM – 1:45 PM   |  [4.6 Deep Sequence Learning  Hands-on]( https://github.com/ciml-org/ciml-summer-institute-2021/tree/main/4.6_deep_sequence_learning_hands_on )   | [Mai Nguyen](#nguyen) &<br> [Paul Rodriguez](#rodriguez) |
 | 1:45 PM – 2:00 PM    | 	Q&A, Wrap-up  |  |
 
 [Back to Top](#top)
