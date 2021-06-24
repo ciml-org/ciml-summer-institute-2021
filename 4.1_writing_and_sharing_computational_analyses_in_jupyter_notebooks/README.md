@@ -164,6 +164,7 @@ Paste the Markdown for the Binder Badge into the README.md file (find placeholde
 To save the README.md file, go to the bottom, enter a comment and click `Commit changes`.
 
 **5. Launch Jupyter from the Binder Badge**
+
 On your README.md page, click on the first badge. The MyBinder.org service will launch. The first time the service is launched, it will create a Docker image from the environment.yml file. This can take several minutes. Once this step is complete, Jupyter Lab will launch in your web browser. 
 
 Now run the any of the notebooks to test them.
