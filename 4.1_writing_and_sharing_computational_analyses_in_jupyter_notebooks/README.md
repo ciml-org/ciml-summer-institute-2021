@@ -15,7 +15,7 @@
 ## Test your Conda Installation
 Run the galyleo script to create a URL for your Jupyter session.
 ```
-galyleo.sh launch --account sds184 --reservation ‘ciml-day3’ --partition 'shared' --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --conda-env 'notebooks-sharing'
+galyleo.sh launch --account sds184 --reservation 'ciml-day3' --partition 'shared' --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/${USER}" --conda-env 'notebooks-sharing'
 ```
 
 After you run this command, a URL is printed. Copy this URL and paste it into a web browser to launch your interactive session.
