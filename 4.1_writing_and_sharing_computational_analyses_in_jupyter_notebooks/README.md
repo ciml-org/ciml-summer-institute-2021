@@ -82,6 +82,7 @@ Run the following notebooks:
 * 4-Predict.ipynb
 
 **7. Make a prediction**
+
 Predict the protein fold class for one of the following proteins using the protein sequence.
 
 **Structure 1**
