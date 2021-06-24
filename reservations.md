@@ -1,5 +1,33 @@
 # CIML Summer Institute:  CPU and GPU Slurm reservations
 
+## UPDATE: 7:55 am, Thursday, 6/24/21
+
+* Once you have logged in this morning to Expanse via your terminal, please run the following two commands in order to fix a typo in your .bashrc file.
+```
+$ sed -i 's/---partition/--partition/g' ~/.bashrc
+$ source .bashrc
+```
+
+* If you happen to run into an issue, the corrected alias commands within your .bashrc file that the above fix is related to are:
+```
+alias start_cpu='galyleo.sh launch --account sds184 --reservation ciml-day3 --partition compute --cpus-per-task 128 --memory-per-node 248 --time-limit 03:00:00 --jupyter lab --notebook-dir /home/${USER} --env-modules singularitypro --sif /cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif --bind /expanse,/scratch,/cvmfs --nv --quiet'
+```
+
+```
+alias start_gpu='galyleo.sh launch --account sds184 --reservation ciml-day3 --partition gpu-shared --cpus-per-task 10 --memory-per-node 93 --gpus 1 --time-limit 03:00:00 --jupyter lab --notebook-dir /home/${USER} --env-modules singularitypro --sif /cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif --bind /expanse,/scratch,/cvmfs --nv --quiet'
+```
+
+```
+alias start_spark='galyleo.sh launch --account sds184 --reservation ciml-day3 --partition shared --ntasks-per-node 1 --cpus-per-task 4 --memory-per-node 8 --time-limit 03:00:00 --jupyter lab --notebook-dir /home/${USER} --sif /cm/shared/apps/containers/singularity/ciml/2021/pyspark-latest.sif --env-modules singularitypro --bind /expanse,/scratch,/cvmfs --quiet'
+```
+
+```
+alias start_jupyter='galyleo.sh launch --account sds184 --reservation ciml-day3 --partition shared --cpus-per-task 1 --memory-per-node 4 --time-limit 00:30:00 --jupyter lab --notebook-dir /home/${USER} --conda-env notebooks-sharing --quiet'
+
+```
+
+
+
 ## Summary:
 
 | **Reservation** |  System | **User Group** |
