@@ -52,7 +52,7 @@ This is an alias for
 
 export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 
- galyleo.sh launch --account '<account>' --reservation '<reservation>' --partition ‘shared’ --ntasks-per-node 1 --cpus-per-task 4 --memory-per-node 8 --time-limit 03:00:00 --jupyter lab --notebook-dir “/home/${USER}” --sif /cm/shared/apps/containers/singularity/ciml/2021/pyspark-latest.sif  --env-modules ‘singularitypro’ --bind /expanse,/scratch,/cvmfs --quiet
+ galyleo.sh launch --account \<account\> --reservation \<reservation\> --partition ‘shared’ --ntasks-per-node 1 --cpus-per-task 4 --memory-per-node 8 --time-limit 03:00:00 --jupyter lab --notebook-dir “/home/${USER}” --sif /cm/shared/apps/containers/singularity/ciml/2021/pyspark-latest.sif  --env-modules ‘singularitypro’ --bind /expanse,/scratch,/cvmfs --quiet
 
 
 **3. Copy URL in a web browser**
