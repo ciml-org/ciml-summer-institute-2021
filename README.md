@@ -3,7 +3,7 @@
 ## WebSite:  https://na.eventscloud.com/website/22773/
 
 ## Interactive Videos
-* A link to the recorded sessions will be posted [here](https://www.sdsc.edu/event_items/202106_cimlsi.html) as soon as they have been completed. 
+* A link to the recorded sessions can be found [here](https://www.sdsc.edu/event_items/202106_cimlsi.html).
 * A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ### <a name="top">**Contents:**
